@@ -205,3 +205,15 @@ nav li {
     padding-bottom: 0.5%;
     padding-top: 0.5%;
 }
+
+/* Media Queries */
+
+/* Mobile Devices  */
+@media only screen and (max-width:688px) {
+    /* Add feature soon  */
+}
+
+/* Tablet Device / Ipad  */
+@media only screen and (min-width:688px) and (max-width:992px) {
+    /* Add feature soon  */
+}
